@@ -1,4 +1,4 @@
-package com.nduyhai.multisearch;
+package com.github.nduyhai.multisearch;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
